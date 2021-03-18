@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZaforAbdullah
 - 👀 I’m interested in Laravel, VueJS
-- 🌱 I’m currently trying to learn AWS
+- 🌱 Soon I'll Start learning AWS
 
 <!---
 ZaforAbdullah/ZaforAbdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
