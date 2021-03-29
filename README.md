@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZaforAbdullah
-- 👀 I’m interested in Laravel, VueJS
+- 👀 I’m currently working with Laravel, VueJS, jQuery
 - 🌱 Soon I'll Start learning AWS
 
 <!---
