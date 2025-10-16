@@ -13,12 +13,6 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaforabdullah&show_icons=true&locale=en" alt="zaforabdullah" /></p>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaforabdullah&" alt="zaforabdullah" />
-</div>
-
-
-
 <!---
 ZaforAbdullah/ZaforAbdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
