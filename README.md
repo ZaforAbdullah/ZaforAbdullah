@@ -44,6 +44,4 @@ Full-stack developer focused on scalable web applications, cloud infrastructure,
 
 <p><img align="left" src="https://github-readme-stats-zaforabdullah.vercel.app/api/top-langs?username=zaforabdullah&show_icons=true&locale=en&layout=compact" alt="zaforabdullah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-zaforabdullah.vercel.app/api?username=zaforabdullah&show_icons=true&locale=en" alt="zaforabdullah" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaforabdullah&" alt="zaforabdullah" /></p>
