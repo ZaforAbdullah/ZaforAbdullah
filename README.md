@@ -10,7 +10,7 @@
 <h3 align="left">Languages & Tools</h3>
 
 <p>
-Full-stack developer focused on scalable web applications, cloud infrastructure, and modern JavaScript ecosystems.
+Full-stack developer focused on scalable web applications, cloud infrastructure, modern JavaScript and Python ecosystems.
 </p>
 
 <h4>Languages</h4>
